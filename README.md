@@ -4,4 +4,4 @@ In the unlikely event that anyone wants to compile my books from sources,
 I've made this repository publicly available.
 
 See https://bookdown.org/yihui/bookdown and https://github.com/rstudio/bookdown/issues
-for the original version of `bookdown` — stick to it. Or [sphinx](https://sphinx-doc.org/).
+for the original version of `bookdown` — stick to it. Or [sphinx](https://www.sphinx-doc.org/).
